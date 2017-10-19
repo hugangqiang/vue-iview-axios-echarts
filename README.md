@@ -7,7 +7,7 @@ npm install
 打包
 npm run build
 
-热加载
+服务运行
 npm start
 
 浏览器输入
