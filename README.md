@@ -1,4 +1,4 @@
-# vue-iview-nodejs-mongodb（前端部署）
+# vue-iview脚手架（前端部署）
 Webpack2,Vue2,Vux2,Vue-router2,sass,Iview-ui,axios,echarts(后台管理系统脚手架)
 
 安装模块
